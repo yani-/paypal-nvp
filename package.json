@@ -1,0 +1,27 @@
+{
+	"name": "paypal-nvp",
+	"version": "0.0.1",
+	"description": "Paypal NVP client library",
+	"keywords": [
+		"paypal",
+		"nvp"
+	],
+	"author": {
+		"name": "Yani Iliev",
+		"email": "yani.iliev@cspath.com"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+		"vows": "0.6.x"
+	},
+	"main": "./lib/paypal-nvp",
+	"scripts": {
+		"test": "vows --spec --isolate"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:yani-/paypal-nvp.git"
+	},
+	"_id": "paypal-nvp@0.0.1"
+	}
