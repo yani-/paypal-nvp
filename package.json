@@ -1,6 +1,6 @@
 {
 	"name": "paypal-nvp",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "Paypal NVP client library",
 	"keywords": [
 		"paypal",
@@ -23,5 +23,5 @@
 		"type": "git",
 		"url": "git@github.com:yani-/paypal-nvp.git"
 	},
-	"_id": "paypal-nvp@0.0.1"
+	"_id": "paypal-nvp@0.0.3"
 	}
